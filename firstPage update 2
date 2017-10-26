@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--content goes in the body-->
+	<title>Matthew Lucas firstPage HTML</title>
+</head>
+<body>
+	<h1>This is my first tag!!!</h1>
+	<h2> this is another heading </h2>
+	<p> 
+	this is <strong>just some text</strong> to add <em>blah blah
+	blah blah</em> blah </p>
+
+	<h6> this is another heading!!! </h6>
+<!-- metadata goes in head -->
+
+<ol>
+	<li> Red </li>
+	<li> Orange </li>
+	<li> Green </li>
+	<ul>
+		<li>volt </li>
+			<li> forest </li>
+				<li> camo </li>
+				</li>
+	</ul>
+</ol>
+<ul>
+	<li> Red </li>
+	<li> Orange </li>
+	<li> Green </li>
+</ul>
+
+</body>
+</html>
