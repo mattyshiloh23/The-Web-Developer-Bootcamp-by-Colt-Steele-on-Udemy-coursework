@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>recreationTest</title>
+	
+	
+</head>
+<body>
+
+<h1>Rusty Steele</h1>
+
+<p>Hi, I'm a dog. Woof!</p>
+
+<img src="https://cmeimg-a.akamaihd.net/640/ppds/db798760-1a02-4353-a9c8-83a9c5bbf30c.jpg">
+<h3>Some of my favorite places: </h3>
+<ul>
+	<li>The beach </li>
+	<li>The dog park </li>
+	<li>The fire hydrant </li>
+</ul>
+Make sure to follow me on <a href="https://www.linkedin.com/in/matthew-lucas/">Linkedin</a>
+</body>
+</html>
