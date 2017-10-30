@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--content goes in the body-->
+	<title>Matthew Lucas firstPage HTML</title>
+</head>
+<body>
+	<h1>This is my first tag!!!</h1>
+	<h2> this is another heading </h2>
+	<p> 
+	this is <strong>just some text</strong> to add <em>blah blah
+	blah blah</em> blah </p>
+
+	<h6> this is another heading!!! </h6>
+<!-- metadata goes in head -->
+
+<ol>
+	<li> Red </li>
+	<li> Orange </li>
+	<li> Green </li>
+	<ul>
+		<li>volt </li>
+			<li> forest </li>
+				<li> camo </li>
+				</li>
+	</ul>
+</ol>
+<ul>
+	<li> Red </li>
+	<li> Orange </li>
+	<li> Green </li>
+</ul>
+
+<table >
+	<tr>
+		<td>Red</td>
+		<td>Blue</td>
+	</tr>
+	<tr>
+		<td>Yellow</td>
+		<td>Green</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th>Name</th>
+		<th> Age </th>
+	</tr>
+	<tr>
+		<td>Rusty</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>Wyatt</td>
+		<td>13</td>
+	</tr>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+			<th>Breed</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Rusty</td>
+			<td>2</td>
+			<td>Mutt</td>
+		</tr>
+		<tr>
+			<td>Wyatt</td>
+			<td>13</td>
+			<td>Golden</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
+</body>
+</html>
